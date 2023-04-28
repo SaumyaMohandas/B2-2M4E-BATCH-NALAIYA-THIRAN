@@ -1,0 +1,1 @@
+[{"id":"c8b2edb9a972f0e7","type":"function","z":"de0a8485ef9a3c15","name":"global variable for smoker","func":"global.set(\"smoker\",msg.payload)\nreturn msg;","outputs":1,"noerr":0,"initialize":"","finalize":"","libs":[],"x":410,"y":360,"wires":[[]]}]
